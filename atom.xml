@@ -4,7 +4,7 @@
   <title><![CDATA[gogoqaz]]></title>
   <link href="http://gogoqaz.github.io/atom.xml" rel="self"/>
   <link href="http://gogoqaz.github.io/"/>
-  <updated>2015-03-16T17:36:38+08:00</updated>
+  <updated>2015-03-16T17:51:27+08:00</updated>
   <id>http://gogoqaz.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Test New Post]]></title>
-    <link href="http://gogoqaz.github.io/blog/2015/03/16/test-new-post/"/>
-    <updated>2015-03-16T13:58:58+08:00</updated>
-    <id>http://gogoqaz.github.io/blog/2015/03/16/test-new-post</id>
-    <content type="html"><![CDATA[<h2>The Basics</h2>
-]]></content>
-  </entry>
   
 </feed>
